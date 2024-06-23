@@ -24,4 +24,6 @@ it('include cool computer scientists by virtue of them being in the club', () =>
   addToCoolKidsClub(createComputerScientist('Ada', 'Lovelace'), people);
   addToCoolKidsClub(createComputerScientist('Annie', 'Easley'), people);
   addToCoolKidsClub(createComputerScientist('Dorothy', 'Vaughn'), people);
+
+  
 });
